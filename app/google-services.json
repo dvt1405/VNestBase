@@ -1,0 +1,311 @@
+{
+  "project_info": {
+    "project_number": "184193846469",
+    "firebase_url": "https://altitude-98f51.firebaseio.com",
+    "project_id": "altitude-98f51",
+    "storage_bucket": "altitude-98f51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184193846469:android:949400bd0e3395d91a34ac",
+        "android_client_info": {
+          "package_name": "com.altitude.guest.bh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184193846469-d6ambe371382vb8u264e2r5aluvhf4p5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.altitude.guest.bh",
+            "certificate_hash": "106f4bd64d9c6afa1e7b9ed90945f6ee420513a1"
+          }
+        },
+        {
+          "client_id": "184193846469-6glk7uqmn8e5t8ar8kb65ke8dd73tv0p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.altitude.guest.bh",
+            "certificate_hash": "7e2dbf8f7b3bbfd6d1c251272d6ff13db124d34e"
+          }
+        },
+        {
+          "client_id": "184193846469-8qihkcl7g7absrp0iainidsu82utbdro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBqF50LlPJTnfaxGjPMPVJEy9JGJ8I3xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184193846469-8qihkcl7g7absrp0iainidsu82utbdro.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "184193846469-eoeper3m00biev93jbmcsbkd2o9o8k9s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.altitudehq.guest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184193846469:android:d098db9180af4a2b1a34ac",
+        "android_client_info": {
+          "package_name": "com.altitude.guest.bh.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184193846469-8qihkcl7g7absrp0iainidsu82utbdro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBqF50LlPJTnfaxGjPMPVJEy9JGJ8I3xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184193846469-8qihkcl7g7absrp0iainidsu82utbdro.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "184193846469-eoeper3m00biev93jbmcsbkd2o9o8k9s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.altitudehq.guest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184193846469:android:6f86e80ab1134d7d1a34ac",
+        "android_client_info": {
+          "package_name": "com.altitude.guest.ph"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184193846469-vsr8e1lgakfo45n3dpjl6tuihd1bleql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.altitude.guest.ph",
+            "certificate_hash": "13f950081680fb53df01c3349820f81ed3717642"
+          }
+        },
+        {
+          "client_id": "184193846469-dsf83qsm3109h4fbof2uefhlne6pnrct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.altitude.guest.ph",
+            "certificate_hash": "f9ac5f8be6302bf3cafcb29b8d776da0d7520f96"
+          }
+        },
+        {
+          "client_id": "184193846469-1mhlehona2tqeqcbb5nku7imslr15e36.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.altitude.guest.ph",
+            "certificate_hash": "106f4bd64d9c6afa1e7b9ed90945f6ee420513a1"
+          }
+        },
+        {
+          "client_id": "184193846469-u5rk4em803bsphc75qdnhnjoff39i8cf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.altitude.guest.ph",
+            "certificate_hash": "7e2dbf8f7b3bbfd6d1c251272d6ff13db124d34e"
+          }
+        },
+        {
+          "client_id": "184193846469-8qihkcl7g7absrp0iainidsu82utbdro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBqF50LlPJTnfaxGjPMPVJEy9JGJ8I3xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184193846469-8qihkcl7g7absrp0iainidsu82utbdro.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "184193846469-eoeper3m00biev93jbmcsbkd2o9o8k9s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.altitudehq.guest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184193846469:android:66b706c9a06300561a34ac",
+        "android_client_info": {
+          "package_name": "com.altitude.guest.ph.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184193846469-8qihkcl7g7absrp0iainidsu82utbdro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBqF50LlPJTnfaxGjPMPVJEy9JGJ8I3xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184193846469-8qihkcl7g7absrp0iainidsu82utbdro.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "184193846469-eoeper3m00biev93jbmcsbkd2o9o8k9s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.altitudehq.guest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184193846469:android:32c8abe01acdf4941a34ac",
+        "android_client_info": {
+          "package_name": "com.altitudehq.express"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184193846469-8qihkcl7g7absrp0iainidsu82utbdro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBqF50LlPJTnfaxGjPMPVJEy9JGJ8I3xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184193846469-8qihkcl7g7absrp0iainidsu82utbdro.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "184193846469-eoeper3m00biev93jbmcsbkd2o9o8k9s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.altitudehq.guest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184193846469:android:8132930afc56ed181a34ac",
+        "android_client_info": {
+          "package_name": "com.kt.baseproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184193846469-8qihkcl7g7absrp0iainidsu82utbdro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBqF50LlPJTnfaxGjPMPVJEy9JGJ8I3xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184193846469-8qihkcl7g7absrp0iainidsu82utbdro.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "184193846469-eoeper3m00biev93jbmcsbkd2o9o8k9s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.altitudehq.guest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184193846469:android:6a4107ee379ae5f81a34ac",
+        "android_client_info": {
+          "package_name": "com.roxwin.altitude.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184193846469-8qihkcl7g7absrp0iainidsu82utbdro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBqF50LlPJTnfaxGjPMPVJEy9JGJ8I3xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184193846469-8qihkcl7g7absrp0iainidsu82utbdro.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "184193846469-eoeper3m00biev93jbmcsbkd2o9o8k9s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.altitudehq.guest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

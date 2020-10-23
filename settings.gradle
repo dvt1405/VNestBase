@@ -1,0 +1,8 @@
+include ':modulelogin'
+include ':baseusercase'
+include ':basedata'
+include ':libdialog'
+include ':baseui'
+include ':libcalendarview'
+include ':app'
+rootProject.name = "BaseProject"

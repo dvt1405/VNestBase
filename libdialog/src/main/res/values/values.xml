@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="sweet_alert_bg_drawable" format="reference" />
+    <attr name="sweet_alert_content_text_color" format="color|reference" />
+    <attr name="sweet_alert_title_text_color" format="color|reference" />
+    <color name="blue_btn_bg_color">#AEDEF4</color>
+    <color name="blue_btn_bg_pressed_color">#96BFD2</color>
+    <color name="button_text_color">#FFFFFF</color>
+    <color name="custom_float_bg">#F27474</color>
+    <color name="error_stroke_color">#F27474</color>
+    <color name="float_transparent">#00000000</color>
+    <color name="gray_btn_bg_color">#D0D0D0</color>
+    <color name="gray_btn_bg_pressed_color">#B6B6B6</color>
+    <color name="main_blue_color">#2469df</color>
+    <color name="main_blue_stroke_color">#205ec7</color>
+    <color name="main_cyan_color">#05d9f7</color>
+    <color name="main_cyan_stroke_color">#05c7e2</color>
+    <color name="main_disabled_color">#838383</color>
+    <color name="main_disabled_stroke_color">#707070</color>
+    <color name="main_green_color">#6bd505</color>
+    <color name="main_green_stroke_color">#60bf04</color>
+    <color name="main_orange_color">#f77805</color>
+    <color name="main_orange_light_color">#f7b90d</color>
+    <color name="main_orange_light_stroke_color">#e4ab0c</color>
+    <color name="main_orange_stroke_color">#e66f04</color>
+    <color name="material_blue_grey_80">#ff37474f</color>
+    <color name="material_blue_grey_90">#ff263238</color>
+    <color name="material_blue_grey_95">#ff21272b</color>
+    <color name="material_deep_teal_20">#ff80cbc4</color>
+    <color name="material_deep_teal_50">#ff009688</color>
+    <color name="message_color">#797979</color>
+    <color name="message_color_dark">#fff</color>
+    <color name="red_btn_bg_color">#DD6B55</color>
+    <color name="red_btn_bg_pressed_color">#CD5B55</color>
+    <color name="success_stroke_color">#fff</color>
+    <color name="sweet_dialog_bg_color">#50000000</color>
+    <color name="sweet_dialog_bg_color_dark">#e6222222</color>
+    <color name="text_color">#575757</color>
+    <color name="title_color">#575757</color>
+    <color name="title_color_dark">#fff</color>
+    <color name="trans_success_stroke_color">#33A5DC86</color>
+    <color name="warning_stroke_color">#F8BB86</color>
+    <declare-styleable name="Rotate3dAnimation">
+        <attr name="dialogRollType" format="enum">
+            <enum name="x" value="0" />
+            <enum name="y" value="1" />
+            <enum name="z" value="2" />
+        </attr>
+        <attr name="dialogFromDeg" format="float" />
+        <attr name="dialogToDeg" format="float" />
+        <attr name="dialogPivotX" format="fraction" />
+        <attr name="dialogPivotY" format="fraction" />
+    </declare-styleable>
+    <dimen name="alert_width">290dp</dimen>
+    <dimen name="buttons_stroke_width">0px</dimen>
+    <dimen name="common_circle_width">3dp</dimen>
+    <dimen name="custom_image_size">53dp</dimen>
+    <dimen name="progress_circle_radius">34dp</dimen>
+    <string name="LOADING">Loading...</string>
+    <string name="app_name">SweetAlertDialog</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_default_title">Here\'s a message!</string>
+    <string name="dialog_ok">OK</string>
+
+    <style name="alert_dialog_dark" parent="alert_dialog_light">
+        <item name="android:backgroundDimAmount">0.8</item>
+        <item name="sweet_alert_bg_drawable">@drawable/dialog_background_dark</item>
+        <item name="sweet_alert_title_text_color">@color/title_color_dark</item>
+        <item name="sweet_alert_content_text_color">@color/message_color_dark</item>
+    </style>
+
+    <style name="alert_dialog_light" parent="android:Theme.Dialog">
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowBackground">@color/float_transparent</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.4</item>
+
+        <item name="sweet_alert_bg_drawable">@drawable/dialog_background</item>
+        <item name="sweet_alert_title_text_color">@color/title_color</item>
+        <item name="sweet_alert_content_text_color">@color/message_color</item>
+    </style>
+
+    <style name="dialog_blue_button" parent="android:Widget.Button">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:minWidth">85dp</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:background">@drawable/green_button_background</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:paddingLeft">21dp</item>
+        <item name="android:paddingRight">21dp</item>
+        <item name="android:textColor">@color/button_text_color</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:lines">1</item>
+    </style>
+</resources>

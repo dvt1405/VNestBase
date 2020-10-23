@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btn_connect_title">Connect</string>
+    <string name="dev_env">DEV</string>
+    <string name="uat_env">UAT</string>
+    <string name="pro_env">PRO</string>
+</resources>

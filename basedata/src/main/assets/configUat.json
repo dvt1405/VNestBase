@@ -1,0 +1,13 @@
+{
+  "notificationEndpoint": "https:\/\/notification.uat.altitudehq.com",
+  "weatherEndpoint": "https:\/\/weather.uat.altitudehq.com",
+  "guestAppConfigEndpoint": "https:\/\/guest-app.uat.altitudehq.com",
+  "deviceAuthEndpoint": "https://auth-device.uat.altitudehq.com/",
+  "announcementEndpoint": "https:\/\/announcements.uat.altitudehq.com",
+  "propertyEndpoint": "https:\/\/property.uat.altitudehq.com",
+  "appFeedbackEndpoint": "https:\/\/app-feedback.uat.altitudehq.com",
+  "stayFeedbackEndPoint": "https:\/\/res-feedback.uat.altitudehq.com",
+  "eventLocalEndPoint": "http:\/\/local-events.uat.altitudehq.com",
+  "miniBarEndPoint": "https:\/\/minibar.uat.altitudehq.com",
+  "maintenanceEndpoint": "https://maintenance.uat.altitudehq.com/"
+}

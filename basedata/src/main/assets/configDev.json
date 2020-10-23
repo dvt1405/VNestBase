@@ -1,0 +1,13 @@
+{
+  "notificationEndpoint": "https:\/\/notification.dev.altitudehq.com",
+  "weatherEndpoint": "https:\/\/weather.dev.altitudehq.com",
+  "guestAppConfigEndpoint": "https:\/\/guest-app.dev.altitudehq.com",
+  "deviceAuthEndpoint": "https://auth-device.dev.altitudehq.com/",
+  "announcementEndpoint": "https:\/\/announcements.dev.altitudehq.com",
+  "propertyEndpoint": "https:\/\/property.dev.altitudehq.com",
+  "appFeedbackEndpoint": "https:\/\/app-feedback.dev.altitudehq.com",
+  "stayFeedbackEndPoint": "https:\/\/res-feedback.dev.altitudehq.com",
+  "eventLocalEndPoint": "http:\/\/local-events.dev.altitudehq.com",
+  "miniBarEndPoint": "https:\/\/minibar.dev.altitudehq.com",
+  "maintenanceEndpoint": "https://maintenance.dev.altitudehq.com/"
+}
